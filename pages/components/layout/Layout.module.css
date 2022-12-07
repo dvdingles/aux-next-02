@@ -1,0 +1,25 @@
+
+
+
+/* Evitamos problemas con las imagenes */
+.img{
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    /* opcional */ object-fit: cover;        
+    /* opcional */ object-position: center center;
+  }
+
+
+.cartel{
+    border: solid 2px black;
+    height: 7rem;
+}
+
+
+
+.logo{
+    src: '../../../public/loco-aux.svg';
+    height: 5rem;
+    width: 5rem;
+}

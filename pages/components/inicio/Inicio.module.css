@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ITC Eras Demi';
+    src: url('../../../public/ITC Eras Demi.ttf');
+  }
+
+  .cartel h1{
+    text-align: center;
+    color: #00814A;;
+    font-size: 3rem;
+    font-family: ITC Eras Demi;
+    line-height: 3rem;
+}
