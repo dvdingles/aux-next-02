@@ -3,10 +3,24 @@
     src: url('../../../public/ITC Eras Demi.ttf');
   }
 
-  .cartel h1{
-    text-align: center;
-    color: #00814A;;
-    font-size: 3rem;
-    font-family: ITC Eras Demi;
-    line-height: 3rem;
+.divCartel{
+  background-color: white;
+  max-width: 33%;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: auto;
 }
+
+.cartel{
+  text-align: center;
+  padding: 2rem;
+  color: #00814A;;
+  font-size: 2rem;
+  font-family: ITC Eras Demi;
+  line-height: 2rem;
+}
+
+.divCartel{
+  box-shadow: 4px 4px 4px 4px (rgba(0,0,0,.5));
+}
+

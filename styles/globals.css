@@ -159,8 +159,6 @@ body {
   /* opcional */ font-smooth: always;
   /* opcional */ -webkit-font-smoothing: antialiased;
   /* opcional */ -moz-osx-font-smoothing: grayscale;
-}
 
-.cartel h1{
-  background-color: green;
+  background-color: #f1f1f1;
 }
